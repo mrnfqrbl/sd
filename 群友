@@ -204,7 +204,10 @@ halo,1girl,animal ears,detached sleeves,blonde hair,long hair,simple background,
 (artist: tianliang_duohe_fangdongye:1.5),(artist: aki99:0.6),(artist:tsubasa tsubasa:0.5),masterpiece,best quality,newest,absurdres,highres,safe,1girl,child,loli,glamor,solo,barefoot,toes,feet,yellow and blue gradient animal cat ears,blue eyes,hair ornament,long hair,tail,hairclip,animal ear fluff,fang,bangs,hair between eyes,multicolored hair,(main yellow hair transition from top to bottom  with blue hair :1.3),yellow hair,blue hair,(gradient hair:1.1),very long hair,show feet,(soles:2),
 cozy bedroom,
 
-
+(artist: tianliang_duohe_fangdongye:1.5),(artist: aki99:0.6),(artist:tsubasa tsubasa:0.5),masterpiece,best quality,newest,absurdres,highres,safe,<lora:add_detail:1>,1girl,(child:2),loli,glamor,solo,barefoot,toes,feet,yellow and blue gradient animal cat ears,blue eyes,hair ornament,long hair,tail,hairclip,animal ear fluff,fang,bangs,hair between eyes,multicolored hair,(main yellow hair transition from top to bottom with blue hair :2),(yellow hair:1.5),blue hair,(gradient hair:2),very long hair,show feet,(soles:2),no panties,sitting,spread legs,(pussy:2),(moaning:2),(spasm:2),embarrass,twitching,remote control vibrator,white slurry in pussy,cum in pussy,pee,white slurry on legs,drooling,
+cozy bedroom,
+Negative prompt: worst quality,old,early,low quality,lowres,signature,username,logo,mammal,anthro,furry,ambiguous form,feral,semi-anthro,(bad feet:2),(extra toes:2),cross-eyed,extra legs,malformed limbs,nsfw,bad hands,mutated hands,lack toes,
+Steps: 29, Sampler: Euler, Schedule type: Automatic, CFG scale: 4, Seed: 1547332152, Size: 1344x768, Model hash: 0efaa1e7e1, Model: noobaiXLNAIXL_epsilonPred075, Clip skip: 2, Lora hashes: "add_detail: 7c6bad76eb54", Version: v1.10.1
 
 
 
